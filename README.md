@@ -1,9 +1,10 @@
 # Bank custumer patterns clustering
 
-## Simple grouping of credit card customers using sklearn's KMeans and some metrics to understand:
-- How to validate and interpret results with data without labels
-- Checking the stability and structure of the cluster
-- The math behind Silhouette, Davies-Bouldin, and Calinski-Harabasz metrics
+## Simple grouping of credit card customers using sklearn's KMeans and some metrics to understand how to:
+- Validate and interpret results with data without labels
+- Check the stability and structure of the cluster
+- Extract information about customer behavior using real data from a credit card company dataset from Kaggle
+- Realize the math behind Silhouette, Davies-Bouldin, and Calinski-Harabasz metrics
 
 Silhouette                 |  Davies-Bouldin            |  Calinski-Harabasz
 :-------------------------:|:-------------------------: |:-------------------------:
