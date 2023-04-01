@@ -1,6 +1,6 @@
-# Bank custumer patterns clustering
+# Bank customer patterns clustering
 
-## Simple grouping of credit card customers using sklearn's KMeans and some metrics to understand how to:
+## Simple credit card customers clustering using sklearn KMeans algorithm and some metrics to understand how to:
 - Validate and interpret results with data without labels
 - Check the stability and structure of the cluster
 - Extract information about customer behavior using real data from a credit card company dataset from Kaggle
